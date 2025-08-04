@@ -1,0 +1,16 @@
+IBM Watson Assistant Deployment
+Platform: IBM Watson Assistant (Lite Plan)
+Chatbot Name: Eco Lifestyle Agent 🌿
+Dialog Nodes: Greet, Reduce Plastic, Eco Travel, Recycle Info, Green Products, Fallback
+
+Integration:
+Deployed via IBM Watson Assistant web interface
+Integrated via embedded web chat (or public link for testing)
+Can be extended via API (Watson Assistant → Webhooks / External services)
+
+Eco-Lifestyle-Agent-IBMCloud/
+├── assets/
+│   └── images/                # Screenshots from IBM Cloud
+├── datasets.csv/                # Placeholder data (eco tips)
+├── watsonx/                     
+└── README.md                 # Project overview and usage guide
